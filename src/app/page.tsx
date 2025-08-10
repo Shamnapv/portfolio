@@ -11,7 +11,7 @@ export default function page() {
     <main>
       <Navbar/>
       <section id="home" className="flex flex-col items-center justify-center h-screen text-center px-4">
-        <h1 className="text-6xl font-extrabold">Hi, I'm <span className="text-blue-600">Shamna</span></h1>
+        <h1 className="text-6xl font-extrabold">Hi, I&apos;m <span className="text-blue-600">Shamna</span></h1>
         <h3 className="mt-4 text-lg">Frontend Developer And AI/ML Enthusiast</h3>
       </section>
       <section id="about" className="min-h-screen py-20">

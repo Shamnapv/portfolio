@@ -19,10 +19,10 @@ function About() {
       <Card className="w-full max-w-3xl shadow-lg">
         <CardContent className="p-6 space-y-4 text-center">
           <p className="text-lg leading-relaxed">
-            Hi! I'm <span className='font-semibold'>Shamna P.V</span>, a passionate and curious B.Tech Information Technology student from GEC Palakkad. I specialize in Frontend Development, crafting intuitive and responsive user interfaces using modern frameworks and design systems.
+            Hi! I&apos;m <span className='font-semibold'>Shamna P.V</span>, a passionate and curious B.Tech Information Technology student from GEC Palakkad. I specialize in Frontend Development, crafting intuitive and responsive user interfaces using modern frameworks and design systems.
           </p>
           <p className="text-md leading-relaxed">
-            My interests go beyond just building beautiful frontends — I'm also deeply drawn to{" "}
+            My interests go beyond just building beautiful frontends — I&apos;m also deeply drawn to{" "}
             <span className='font-semibold'>Artificial Intelligence</span>,{" "}
             <span className='font-semibold'>Machine Learning</span>, and{" "}
             <span className='font-semibold'>UI/UX development</span>. I enjoy exploring how smart systems and great design can come together to create impactful digital experiences.
